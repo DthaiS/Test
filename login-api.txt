@@ -1,2 +1,3 @@
 code-here
 func change password
+func update avarta

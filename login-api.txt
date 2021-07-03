@@ -1,3 +1,4 @@
 code-here
 func change password
 func update avarta
+func update role
